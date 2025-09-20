@@ -124,25 +124,25 @@ python ol_subject_scraper.py
 Visual insights generated from the scraped OpenLibrary data.
 
 1. **Bar Chart** – Shows the top 10 most wanted books per subject, comparing demand across Chemistry, Physics, and Computer Science.
-   ![Bar Chart](images/bar_chart.png)
+   ![Bar Chart](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/bar_chart.png)
    
 2. **Treemap** – A hierarchical map of Subject → Author → Book, sized by demand and colored by rating.
-   ![Treemap](images/treemap.png)
+   ![Treemap](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/treemap.png)
 
 3. **Bubble Chart** – Plots ratings vs. demand, where bubble size represents demand and colors distinguish subjects.
-   ![Bubble Chart](images/bubble_chart.png)
+   ![Bubble Chart](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/bubble_chart.png)
 
 4. **Scatter Plot (with Trendline)** – Displays demand vs. rating for all books, with a regression trendline to show correlation.
-   ![Scatter Plot](images/scatter_plot.png)
+   ![Scatter Plot](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/scatter_plot.png)
 
 5. **Word Cloud** – Highlights the most common words in book titles, with larger words appearing more frequently.
-   ![Word Cloud](images/wordcloud.png)
+   ![Word Cloud](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/wordcloud.png)
 
 6. **Heatmap** – Compares the average rating and demand per subject side by side.
-   ![Heatmap](images/heatmap.png)
+   ![Heatmap](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/heatmap.png)
 
 7. **Sunburst Chart** – A hierarchical breakdown of Subject → Author → Book, with slice size for demand and color for rating.
-   ![Sunburst Chart](images/sunburst_chart.png)
+   ![Sunburst Chart](https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT/blob/main/OpenLibrary_SCRAPER/DATA/data_viz/sunburst_chart.png)
 
 ---
 
