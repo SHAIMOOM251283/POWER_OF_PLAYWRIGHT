@@ -55,7 +55,7 @@ Both scripts:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/<your-username>/POWER_OF_PLAYWRIGHT.git
+git clone https://github.com/SHAIMOOM251283/POWER_OF_PLAYWRIGHT.git
 cd POWER_OF_PLAYWRIGHT/OpenLibrary_SCRAPER
 ```
 
